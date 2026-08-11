@@ -1,0 +1,18 @@
+
+ 	 Check Design Report (c)
+	 ------------------- 
+
+ Multidriven Port(s)/Pin(s)
+--------------------------
+
+No multidriven combinational pin in 'soc_top'
+
+No multidriven sequential pin in 'soc_top'
+
+No multidriven hierarchical pin in 'soc_top'
+
+No multidriven ports in 'soc_top'
+
+No multidriven unloaded nets in 'soc_top'
+
+  Done Checking the design.

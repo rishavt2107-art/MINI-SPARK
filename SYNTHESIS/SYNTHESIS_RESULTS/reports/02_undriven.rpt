@@ -1,0 +1,15 @@
+
+ 	 Check Design Report (c)
+	 ------------------- 
+
+ Undriven Port(s)/Pin(s)
+ ------------------------
+No undriven combinational pin in 'soc_top'
+
+No undriven sequential pin in 'soc_top'
+
+No undriven hierarchical pin in 'soc_top'
+
+No undriven port in 'soc_top'
+
+  Done Checking the design.

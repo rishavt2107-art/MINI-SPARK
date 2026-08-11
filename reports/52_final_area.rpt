@@ -1,0 +1,7 @@
+    Hinst Name       Module Name          Inst Count           Total Area
+----------------------------------------------------------------------
+soc_top                                        23391           107061.048
+ u_accel             accel_top                  3241            12353.040
+  u_accel/u_sa       systolic_array             2299             8113.266
+ u_cpu_u_rf          reg_file                   2399            10983.672
+ u_imem              imem_rom                     94              138.510
